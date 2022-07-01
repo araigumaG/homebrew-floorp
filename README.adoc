@@ -15,4 +15,4 @@ $ brew install floorp
 
 Paul Hinze & Contributors : link:Casks/floorp.rb[] is derived from https://github.com/Homebrew/homebrew-cask/blob/master/Casks/tor-browser.rb[tor-browser.rb]
 
-https://github.com/Floorp-Projects/Floorp[Floorp Browser]: https://github.com/Homebrew/homebrew-cask[Homebrew/homebrew-cask] needs more forks, watchers and stars to merge the cask. Can I possibly trouble you to help them please?
+https://github.com/Floorp-Projects/Floorp[Floorp Browser]: https://github.com/Homebrew/homebrew-cask[Homebrew/homebrew-cask] requests more forks, watchers and stars to merge the cask. Can I possibly trouble you to help them please?
