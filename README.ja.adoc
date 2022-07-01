@@ -1,0 +1,18 @@
+# Tap for Floorp Browser
+
+link:README.ja.adoc[英語/English Version]
+
+Homebrew (Cask)でFloorp Browserをインストールするためのリポジトリです。
+
+## Usage
+
+....
+$ brew tap araigumaG/floorp
+$ brew install floorp
+....
+
+## Credit 
+
+Paul Hinze & Contributors : link:Casks/floorp.rb[]は https://github.com/Homebrew/homebrew-cask/blob/master/Casks/tor-browser.rb[tor-browser.rb]を改変したものです。
+
+https://github.com/Floorp-Projects/Floorp[Floorp Browser]: https://github.com/Homebrew/homebrew-cask[Homebrew/homebrew-cask]にこのCaskを加えるには、より多くのfork・watch・starが必要です。ご協力いただければ幸いです。
