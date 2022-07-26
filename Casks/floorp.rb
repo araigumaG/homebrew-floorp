@@ -1,6 +1,6 @@
 cask "floorp" do
-  version "10.1.0"
-  sha256 "39789255fe2fd3ab472f9af5d240246baf37e498697e472774138bf5da082502"
+  version "10.2.0"
+  sha256 "9a4abdd39ead06533ce5b0ba58690fbf00008aef05b6f164e9404332efa5cd3e"
 
   url "https://github.com/Floorp-Projects/Floorp/releases/download/v#{version}/floorp-macOS-Intel.dmg",
       verified: "github.com/Floorp-Projects"
@@ -8,7 +8,7 @@ cask "floorp" do
   desc "Firefox based browser with excellent privacy"
   homepage "https://floorp.ablaze.one/"
 
-  auto_updates true
+  # auto_updates true
 
   app "Floorp.app"
 
