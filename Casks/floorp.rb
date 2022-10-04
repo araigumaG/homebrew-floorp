@@ -1,9 +1,8 @@
 cask "floorp" do
-  version "10.5.0"
-  sha256 "4f921b2f9f54bd65f6715bc8aeb4234b91ff3201b2db824337c231b7bcacd91f"
+  version "10.6.0"
+  sha256 "2793b6adba596aac55355240f3680b76422b08c35b9513d0fa4609e4763700e6"
 
-  # url "https://github.com/Floorp-Projects/Floorp/releases/download/v#{version}/floorp-macOS-Univerasal.dmg",
-  url "https://github.com/Floorp-Projects/Floorp/releases/download/Pre2-v10.5.0/floorp-macOS-Univerasal.dmg", #this url is just for specific version (10.5.0)!
+  url "https://github.com/Floorp-Projects/Floorp/releases/download/v#{version}/floorp-macOS-Univerasal.dmg",
   verified: "github.com/Floorp-Projects"
   name "Floorp browser"
   desc "Firefox based browser with excellent privacy"
